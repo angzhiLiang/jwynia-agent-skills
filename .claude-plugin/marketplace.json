@@ -1,0 +1,6 @@
+{
+  "name": "jwynia-agent-skills",
+  "description": "Curated mirror of jwynia/agent-skills",
+  "owner": {"name": "angzhiLiang", "url": "https://github.com/angzhiLiang"},
+  "plugins": [{"name": "jwynia-agent-skills", "description": "presentation-design", "source": "./"}]
+}
